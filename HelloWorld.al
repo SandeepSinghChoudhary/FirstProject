@@ -8,6 +8,8 @@ pageextension 50100 CustomerListExt extends "Customer List"
     begin
         Message('App published: Hello world');
         message('badhai ho');
-        message('again badhai ho')
+        message('again badhai ho');
+        Message('badhai ho lala');
+
     end;
 }
